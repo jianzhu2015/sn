@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="sc_request" label="John Request" max_length="40" name="x_66193_john_app_t_john_request" text_index="true" type="collection">
+        <element label="Address" max_length="50" name="address" type="string"/>
         <element label="First Name" max_length="50" name="first_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Last name" max_length="40" name="last_name" type="string"/>
     </element>
