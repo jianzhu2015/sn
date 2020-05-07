@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>business_service</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>100</order>
+        <record_id_field/>
+        <screen display_value="Details">d13bfd32072490101dbaf4be7c1ed0f1</screen>
+        <screen_data_item_table>x_66193_john_app_t_john_request</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-07 01:42:35</sys_created_on>
+        <sys_id>9d3b3172072490101dbaf4be7c1ed017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>business_service</sys_name>
+        <sys_package display_value="John App Test" source="x_66193_john_app_t">d6b8793a07e090101dbaf4be7c1ed0ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="John App Test">d6b8793a07e090101dbaf4be7c1ed0ca</sys_scope>
+        <sys_update_name>sys_sg_screen_field_9d3b3172072490101dbaf4be7c1ed017</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-07 01:42:35</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d3b3172072490101dbaf4be7c1ed017"/>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">8acb469998f100107f2c2ed01a1f1628</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-07 01:37:13</sys_created_on>
+        <sys_id>a6f9bd7a07e090101dbaf4be7c1ed0b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="John App Test" source="x_66193_john_app_t">d6b8793a07e090101dbaf4be7c1ed0ca</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-07 01:37:13</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

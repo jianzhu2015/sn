@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>272a75b607e090101dbaf4be7c1ed064</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/john_app_test</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-07 01:38:06</sys_created_on>
+        <sys_id>2f2a75b607e090101dbaf4be7c1ed064</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>John App Test</sys_name>
+        <sys_package display_value="John App Test" source="x_66193_john_app_t">d6b8793a07e090101dbaf4be7c1ed0ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="John App Test">d6b8793a07e090101dbaf4be7c1ed0ca</sys_scope>
+        <sys_update_name>sys_ux_page_registry_2f2a75b607e090101dbaf4be7c1ed064</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-07 01:38:06</sys_updated_on>
+        <title>John App Test</title>
+    </sys_ux_page_registry>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>John Request Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="John Requests">d13bfd32072490101dbaf4be7c1ed0f0</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-07 01:42:35</sys_created_on>
+        <sys_id>193bfd32072490101dbaf4be7c1ed0f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>John Request Item Stream Segment</sys_name>
+        <sys_package display_value="John App Test" source="x_66193_john_app_t">d6b8793a07e090101dbaf4be7c1ed0ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="John App Test">d6b8793a07e090101dbaf4be7c1ed0ca</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_193bfd32072490101dbaf4be7c1ed0f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-07 01:42:35</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>
